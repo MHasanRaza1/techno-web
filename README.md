@@ -14,7 +14,7 @@ Explore the live website: <a href="https://techno-web-app.vercel.app/">Techno We
 The project is deployed on Vercel, ensuring high performance and global accessibility. Visit the live project here: Techno Web App
 
 <h1>Author 🧑‍💻</h1>
-Hasan Raza: Creator of Techno Web App
+- <b>Hasan Raza:</b> Creator of Techno Web App
 
 <h1>Contribution 🤝</h1>
 Contributions to Techno Web App are welcome! Whether you have feedback, suggestions, or want to contribute to the codebase, feel free to open an issue or submit a pull request.
