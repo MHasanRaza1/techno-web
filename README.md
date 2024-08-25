@@ -1,5 +1,5 @@
-<h1>Techno Web App 🚀</h1>
-Welcome to Enhance AI, a visually stunning static website developed by Hasan Raza. This project highlights web development skills, emphasizing the potential of HTML, CSS, and Bootstrap.
+<h1>Techno Web 🚀</h1>
+Welcome to Techno Web, a visually stunning static website developed by Hasan Raza. This project highlights web development skills, emphasizing the potential of HTML, CSS, and Bootstrap.
 <br>
 Explore the live website: <a href="https://techno-web-app.vercel.app/">Techno Web</a>
 
@@ -11,13 +11,13 @@ Explore the live website: <a href="https://techno-web-app.vercel.app/">Techno We
 </ul>
 
 <h1>Deployment 🚀</h1>
-The project is deployed on Vercel, ensuring high performance and global accessibility. Visit the live project here: Techno Web App
+The project is deployed on Vercel, ensuring high performance and global accessibility. Visit the live project here: Techno Web
 
 <h1>Author 🧑‍💻</h1>
-- <b>Hasan Raza:</b> Creator of Techno Web App
+- <b>Hasan Raza:</b> Creator of Techno Web
 
 <h1>Contribution 🤝</h1>
-Contributions to Techno Web App are welcome! Whether you have feedback, suggestions, or want to contribute to the codebase, feel free to open an issue or submit a pull request.
+Contributions to Techno Web are welcome! Whether you have feedback, suggestions, or want to contribute to the codebase, feel free to open an issue or submit a pull request.
 
 <h1>License 📄</h1>
 This project is licensed under the MIT License. See the LICENSE file for more details.
